@@ -1,0 +1,32 @@
+# Fdb version 3
+["xdvipdfmx"] 1603798700 "rest-api-design.xdv" "rest-api-design.pdf" "rest-api-design" 1603798703
+  "rest-api-design.xdv" 1603798700 5164 497008023a4a5d9f136a807353ec6e24 "xelatex"
+  (generated)
+  "rest-api-design.pdf"
+["xelatex"] 1603798698 "rest-api-design.tex" "rest-api-design.xdv" "rest-api-design" 1603798703
+  "d:/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1596645921 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1596644144 1524 4414a8315f39513458b80dfc63bff03a ""
+  "d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1596644144 1512 f21f83efb36853c0b70002322c1ab3ad ""
+  "d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm" 1596644144 1520 eccf95517727cb11801f4f1aee3a21b4 ""
+  "d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm" 1596644144 1524 d89e2d087a9828407a196f428428ef4a ""
+  "d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1596644144 1288 655e228510b4c2a1abe905c368440826 ""
+  "d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr6.tfm" 1596644144 1300 b62933e007d01cfd073f79b963c01526 ""
+  "d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr8.tfm" 1596644144 1292 21c1c5bfeaebccffdb478fd231a0997d ""
+  "d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr9.tfm" 1596644144 1292 6b21b9c2c7bebb38aa2273f7ca0fb3af ""
+  "d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1596644144 1124 6c73e740cf17375f03eec0ee63599741 ""
+  "d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1596644144 1116 933a60c408fc0a863a92debe84b2d294 ""
+  "d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1596644144 1120 8b7d695260f3cff42e636090a8002094 ""
+  "d:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm" 1596644144 1116 25a7bf822c58caf309a702ef79f4afbb ""
+  "d:/texlive/2020/texmf-dist/tex/latex/base/article.cls" 1596647182 20023 e427dd9e17e239bf926ef3aab67fe35e ""
+  "d:/texlive/2020/texmf-dist/tex/latex/base/size10.clo" 1596647182 8446 9874cccac5fee462272c582807dbbf56 ""
+  "d:/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd" 1596647182 2431 b6cead9f069ed55f4fba0c637aa047b6 ""
+  "d:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def" 1596647129 23471 d7927ec67cae4c632d9926c588a0178b ""
+  "d:/texlive/2020/texmf-dist/web2c/texmf.cnf" 1596647082 39451 60d7debd9ef8ece44cbe965493576c2d ""
+  "d:/texlive/2020/texmf-var/web2c/xetex/xelatex.fmt" 1596653034 4778992 60e9a54627171a7101a10f8c44d2bb72 ""
+  "d:/texlive/2020/texmf.cnf" 1596652727 673 4ae7b2f49cee444c5343a45b5d0f169c ""
+  "rest-api-design.aux" 1603798700 8 a94a2480d3289e625eea47cd1b285758 "xelatex"
+  "rest-api-design.tex" 1603796577 565 c0c4f796b59ff7ed69619c477e6544b0 ""
+  (generated)
+  "rest-api-design.xdv"
+  "rest-api-design.aux"
+  "rest-api-design.log"

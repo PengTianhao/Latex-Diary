@@ -1,8 +1,8 @@
 filename=helloworld
 build_dir=build
 
-pdf: 
+pdf:
 	pdflatex -output-directory=${build_dir} *.tex
 
 clean:
-	rm -f ${build_dir}/* 
+	rm -f ${build_dir}/*
